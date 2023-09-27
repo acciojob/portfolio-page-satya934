@@ -2,6 +2,12 @@
 #head{
 	display:flex;
 	alignitems:center;
-	
+	color:red;
+}
+#project{
+	color:blue;
+}
+#skill{
+	color:hotpink;
 }
 /* Your CSS Code here. */
